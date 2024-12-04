@@ -27,7 +27,7 @@ jobs:
         with:
           context: ./
           push: true
-          # tags: filipanselmo23/webacademy:latest
+          tags: filipanselmo23/webacademy:latest
 
   deploy:
     runs-on: ubuntu-latest
